@@ -1,0 +1,5 @@
+{
+  "name": "TempCheck: The Coder vs. The Poet",
+  "description": "An interactive demonstration of how LLM Temperature settings affect output, contrasting strict logic against wild creativity.",
+  "requestFramePermissions": []
+}
